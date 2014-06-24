@@ -25,3 +25,4 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/qemu_x86_64.mk \
     $(LOCAL_DIR)/qemu_arm64.mk \
     $(LOCAL_DIR)/qemu_mips64.mk \
+    $(LOCAL_DIR)/ranchu_arm64.mk \
