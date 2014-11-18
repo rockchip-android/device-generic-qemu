@@ -50,7 +50,6 @@ PRODUCT_PACKAGES += \
     liblog \
     libm \
     libstdc++ \
-    libstlport \
     libsysutils \
     libutils \
     linker \
