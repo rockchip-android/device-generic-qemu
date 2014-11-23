@@ -65,6 +65,7 @@ PRODUCT_PACKAGES += \
     servicemanager \
     sh \
     toolbox \
+    toybox \
     vold \
 
 # SELinux packages
